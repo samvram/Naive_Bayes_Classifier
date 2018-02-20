@@ -2,6 +2,8 @@
 
 In this assignment, we will build various text classification models and use them to classify sentences from 2016 presidential debates(United States of America) according to speakers.
 
+Also, this is the solution to this <a href="https://www3.nd.edu/~dchiang/teaching/nlp/2016/hw1.html"> assignment </a>, in order for completion of course **AV 493 - Machine Learning for Signal Processing(MLSP)**
+
 ## Classifier Characteristics
 Implementing a Naïve Bayes classifier:-
 
